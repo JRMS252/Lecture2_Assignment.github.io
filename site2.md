@@ -1,7 +1,28 @@
+<!DOCTYPE html>
 <html>
-  <body>
-    <h1 style="border 5px solid White;">Welcome to Site 2!</h1>
-  </body>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>My First CSS Example</h1>
+<p>This is a paragraph.</p>
+
+</body>
 </html>
 
 ![Photo](goober.jpg "Look at this silly little guy!")

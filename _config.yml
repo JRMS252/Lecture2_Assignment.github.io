@@ -4,5 +4,5 @@ plugins:
 
 gem "github-pages", group: :jekyll_plugins
 
-title: [RCOS Lecture Assignment 2 Site 1]
-description: [One of two sites for the 2nd RCOS Lecture Assignment]
+title: [RCOS Lecture Assignment 2 Site]
+description: [Site For The 2nd RCOS Lecture Assignment]

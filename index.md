@@ -1,7 +1,7 @@
 <p>This website is a demo site meant to serve as one of two <br>
 required sites for the second RCOS lecture assignment.</p>  
 
-<p><a href="site2">Site 2: CSS and Image</p>  
+<p><a href="site2">Site 2: CSS and Image</a></p>  
 
 [W3Schools Tutorials](#tutorials)  
 
@@ -28,15 +28,15 @@ required sites for the second RCOS lecture assignment.</p>
       </tr>
       <tr>
         <td>CSS</th>
-        <td><a href="https://www.w3schools.com/html/html_css.asp">Link</a></th>
+        <td><a href="https://www.w3schools.com/html/html_css.asp">Link</a></td>
       </tr>
       <tr>
         <td>HTML</th>
-        <td><a href="https://www.w3schools.com/html/default.asp">Link</a></th>
+        <td><a href="https://www.w3schools.com/html/default.asp">Link</a></td>
       </tr>
       <tr>
         <td>Python</th>
-        <td><a href="https://www.w3schools.com/python/default.asp">Link</a></th>
+        <td><a href="https://www.w3schools.com/python/default.asp">Link</a></td>
       </tr>
   </content>
 </hr>

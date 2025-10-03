@@ -1,6 +1,8 @@
 <p>This website is a demo site meant to serve as one of two <br>
 required sites for the second RCOS lecture assignment.</p>
 
+<p><a href="site2">Site 2: CSS and Image</p>
+
 [W3Schools Tutorials](#tutorials)
 
 <h1>This is the largest header size.</h1>

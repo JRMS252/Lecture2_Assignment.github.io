@@ -1,21 +1,21 @@
 <p>This website is a demo site meant to serve as one of two <br>
-required sites for the second RCOS lecture assignment.</p>
+required sites for the second RCOS lecture assignment.</p>  
 
-<p><a href="site2">Site 2: CSS and Image</p>
+<p><a href="site2">Site 2: CSS and Image</p>  
 
-[W3Schools Tutorials](#tutorials)
+[W3Schools Tutorials](#tutorials)  
 
-<h1>This is the largest header size.</h1>
+<h1>This is the largest header size.</h1>  
 
-<h2>This is the second largest header size.</h2>
+<h2>This is the second largest header size.</h2>  
 
-<h3>This is the smallest header size.</h3>
+<h3>This is the smallest header size.</h3>  
 
-**This text is in double asterisks, so it is bold.**
+**This text is in double asterisks, so it is bold.**  
 
-*This text is in single asterisks, so it is italicized.*
+*This text is in single asterisks, so it is italicized.*  
 
-***This text is in triple asterisks, so it is bold and italicized.***
+***This text is in triple asterisks, so it is bold and italicized.***  
 
 <hr>
 <article class="mb-5" id="tutorials">

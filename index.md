@@ -38,5 +38,6 @@ required sites for the second RCOS lecture assignment.</p>
         <td>Python</th>
         <td><a href="https://www.w3schools.com/python/default.asp">Link</a></td>
       </tr>
+    </table>
   </content>
 </hr>

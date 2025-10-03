@@ -40,4 +40,3 @@ required sites for the second RCOS lecture assignment.</p>
       </tr>
     </table>
   </content>
-</hr>

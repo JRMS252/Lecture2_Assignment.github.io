@@ -2,7 +2,6 @@
   <head>
     <style>
     body {
-      background-image: url("goober.jpg");
       color: black;
     }
   </style>
@@ -12,3 +11,5 @@
     <h1>This page has a silly cat as the background!</h1>
   </body>
 </html>
+
+![Photo](goober.jpg "Silly Guy")

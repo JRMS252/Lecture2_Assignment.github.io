@@ -27,15 +27,15 @@ required sites for the second RCOS lecture assignment.</p>
         <th>Link</th>
       </tr>
       <tr>
-        <td>CSS</th>
+        <td>CSS</td>
         <td><a href="https://www.w3schools.com/html/html_css.asp">Link</a></td>
       </tr>
       <tr>
-        <td>HTML</th>
+        <td>HTML</td>
         <td><a href="https://www.w3schools.com/html/default.asp">Link</a></td>
       </tr>
       <tr>
-        <td>Python</th>
+        <td>Python</td>
         <td><a href="https://www.w3schools.com/python/default.asp">Link</a></td>
       </tr>
     </table>
